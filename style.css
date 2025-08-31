@@ -259,7 +259,7 @@ header {
 }
 
 .images img {
-    max-width: 600px;
+    max-width: 300px;
     border: 3px solid #00aaff;
     border-radius: 5px;
 }
@@ -527,7 +527,7 @@ footer {
   }
 
   .image-content {
-    margin-top: 20px;
+    margin-top: 20px ;
   }
 
   .services-grid {
